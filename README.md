@@ -1,5 +1,7 @@
 Build image:
 
+    git clone https://github.com/JiaweiZhuang/mpb_docker
+    cd mpb_docker
     docker build -t mpb .
 
 Run script:
